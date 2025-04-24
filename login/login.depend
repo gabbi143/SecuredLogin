@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1745505432 source:c:\users\gabbi\documents\gabbicodeblocks\login\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
